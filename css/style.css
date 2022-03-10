@@ -12,10 +12,6 @@
   --color-grey-dark-3: #999;
   --shadow-dark: 0 2rem 6rem rgba(0, 0, 0, 0.3); }
 
-::placeholder {
-  color: blue;
-  font-size: 1.5em; }
-
 *,
 *::before,
 *::after {

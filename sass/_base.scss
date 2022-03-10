@@ -29,11 +29,6 @@
   --shadow-dark: 0 2rem 6rem rgba(0, 0, 0, 0.3);
 }
 
-::placeholder {
-  color: blue;
-  font-size: 1.5em;
-}
-
 $bp-largest: 75em; // 1200px
 $bp-large: 68.75em; // 1100px
 $bp-medium: 56.25em; // 900px
